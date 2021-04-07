@@ -2,6 +2,7 @@
 *~
 /*.less
 /*.css
+.idea
 tests/bootstrap
 tests/tmp
 vendor
